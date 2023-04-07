@@ -18,6 +18,7 @@ body {
   width: 100%;
   max-width: 420px;
   margin: 1em;
+  border-image: linear-gradient(to bottom right, #ff00ff, #00ffff) 22 12 / 10px 10px ;
 }
 
 .search {
